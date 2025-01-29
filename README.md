@@ -1,4 +1,31 @@
-Project Overview
+📥 How to Get Started
+
+Here’s a quick guide to help you get up and running with this project in no time. Follow these simple steps to clone the repository, install dependencies, and start your development server:
+
+1. Clone the Repository
+
+First, you’ll need to grab the source code. Open your terminal and run the following command to clone the project repository to your local machine:
+
+git clone https://github.com/Graniecki/react-application-form.git
+
+2. Install Dependencies
+
+Now that you have the project files, navigate to the project directory and install the necessary dependencies using npm. This will install all the libraries and packages required to run the project:
+
+cd react-application-form
+npm install
+
+3. Start the Development Server
+
+With the dependencies installed, you’re all set to run the project locally! Start the development server with the following command:
+
+npm run dev
+
+Once the server is running, you can open your browser and head over to http://localhost:3000 to see the application in action!
+
+And that’s it! 🎉 You now have the project up and running on your machine. 🚀
+
+
 
 🚀 Key Technologies Used
 
